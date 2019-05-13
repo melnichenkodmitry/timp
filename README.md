@@ -42,8 +42,8 @@ $ git push -u origin pr2
 
 **Задание 1:**
 
-https://ibb.co/3sMCjLV
+<a href="https://ibb.co/3sMCjLV"><img src="https://i.ibb.co/59nRSfC/2019-05-13-22-20-17.png" alt="2019-05-13-22-20-17" border="0" /></a>
 
 **Задание 2:**
 
-https://ibb.co/xmNp1sq
+<a href="https://ibb.co/xmNp1sq"><img src="https://i.ibb.co/1skDrnG/2019-05-13-22-18-35.png" alt="2019-05-13-22-18-35" border="0" /></a>
